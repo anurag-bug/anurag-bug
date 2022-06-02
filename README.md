@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @anurag-bug
-- 👀 I’m interested in learning advanced python and designing systems
-- 🌱 I’m currently learning stackstorm.
-- 💞️ I’m looking to collaborate on any open source projects.
 - 📫 You can reach out to me on linkedin https://www.linkedin.com/in/anuragbug/
 
 <!---
